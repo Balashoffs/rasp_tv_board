@@ -1,0 +1,75 @@
+(footprint "SYMBOL_MINUS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "ICON\n\nMinus Symbol")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "0721b9e1-e729-46a9-9e41-f53ec38bde05")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7f4569a7-2764-4324-a755-7b00a2498a35")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "738178b6-3156-4fbf-aa63-e3b976f4086e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9deae7e-b61c-4609-a450-6e89ffff7e5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start 0.3968 0)
+		(end -0.3969 0)
+		(stroke
+			(width 0.3048)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db2cb4c5-d1f7-4ee3-b462-1575826e0d2d")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.7817 0)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "358c2779-0c1a-4b54-99cd-daf63864b3d9")
+	)
+	(embedded_fonts no)
+)
