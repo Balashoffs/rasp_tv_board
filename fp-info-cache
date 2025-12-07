@@ -1,18 +1,4 @@
-26772864938321935
-Audio_Module
-Reverb_BTDR-1H
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
-Audio_Module
-Reverb_BTDR-1V
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
+26776403631171942
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2149,6 +2135,13 @@ DIP Switch SPST Slide 7.62mm 300mil
 24
 24
 Button_Switch_THT
+SW_DPDT_XLX
+DPDT Latching
+SW DPDT
+0
+6
+6
+Button_Switch_THT
 SW_E-Switch_EG1224_SPDT_Angled
 E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf
 switch SPDT
@@ -2568,6 +2561,13 @@ SPDT endstop limit switch vertical hook lever XKB DM1-16UP-1
 0
 3
 3
+Button_Switch_THT
+Без имени
+
+
+0
+0
+0
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
@@ -60998,6 +60998,13 @@ LCD 16x2 Alphanumeric 16pin
 22
 18
 Display
+TFT-320x240
+
+
+0
+14
+14
+Display
 WC1602A
 LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
 LCD 16x2 Alphanumeric 16pin
@@ -70791,6 +70798,13 @@ onion omega module
 89
 64
 Module
+PAM
+Texas Instruments EUK 7 Pin Double Sided Module
+module pcb
+0
+9
+6
+Module
 Pololu_Breakout-16_15.2x20.3mm
 Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8
 Pololu Breakout
@@ -70883,6 +70897,13 @@ AI Kendryte K210 RISC-V
 72
 Module
 Texas_EUK_R-PDSS-T7_THT
+Texas Instruments EUK 7 Pin Double Sided Module
+module pcb
+0
+7
+7
+Module
+Texas_EUK_R-PDSS-T7_THT_1
 Texas Instruments EUK 7 Pin Double Sided Module
 module pcb
 0
@@ -97117,13 +97138,6 @@ Resistor Radial_Power series Radial pin pitch 7.37mm 10W length 16.1mm width 9mm
 0
 2
 2
-Rispbary
-Samtec_HLE-120-02-xxx-DV-BE-A_2x20_RPi_Bottom
-Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-140-02-xxx-DV-BE-A, 20 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator
-connector Samtec  top entry
-0
-40
-40
 Rotary_Encoder
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC11E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html

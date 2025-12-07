@@ -1,0 +1,4 @@
+Keycap For XLX Switch (Latching) by Still_Breathing on Thingiverse: https://www.thingiverse.com/thing:4142829
+
+Summary:
+A KeyCap for the Switch:  XLX DPDTHave not found KeyCaps for these so, I made this.Fits snuggly.If wanting a shorter height, sink it into your print bed as desired (don't expose the cutout). (the larger Orange Keycap in photo)Added versions with Radius'd and Chamfered tops.All Keycaps in photo are 'As-Printed' Only the Orange,Two Small Keycaps in last photo were printed using the Higher Resolution files. All files are  now Higher Resolution ;-)Note: Had trouble uploading and deleting files. I deleted all the files and re-uploaded them with different (but similar) names...Printed:Layers (Top &amp; Bottom) = 3Shells = 2Layer Height = 0.1Infill = 40%PLAAmazon Part: https://www.amazon.com/XLX-100pcs-Self-locking-Switches-8mmx8mm/dp/B01KJHR3W6/ref=sr_1_2?keywords=xlx+switch&amp;qid=1580770450&amp;sr=8-2
