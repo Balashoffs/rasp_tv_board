@@ -1,1 +1,1 @@
-![3d modle](.\rasp_tv_spi_version.jpg)
+![3d modle](./rasp_tv_spi_version.jpg)
